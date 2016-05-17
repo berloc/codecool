@@ -1,5 +1,5 @@
 doors = [0]*101
-#fuggvany, ami megvizsgalja, hogy nyitva van-e az ajto és kinyitja, ha zarva
+
 def switch(x):
     global doors
     if doors[x] == 0:
