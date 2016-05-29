@@ -31,5 +31,5 @@ def print_table(inv):
 
 
 Inventory(inv)
-#addToInventory(inventory,addedItems)
+addToInventory(inv,dragonLoot)
 print_table(inv)
